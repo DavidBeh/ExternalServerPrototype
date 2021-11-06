@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="VM" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="VM">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/.dockerignore" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Dockerfile" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/ExternalServerPrototype.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Protos/greet.proto" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Services/GreeterService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/obj/Debug/net5.0/ExternalServerPrototype.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/obj/Debug/net5.0/Protos/Greet.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/obj/Debug/net5.0/Protos/GreetGrpc.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/.dockerignore" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Dockerfile" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/GrpcService.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Protos/greet.proto" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Services/GreeterService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/obj/Debug/net5.0/GrpcService.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/obj/Debug/net5.0/Protos/Greet.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/obj/Debug/net5.0/Protos/GreetGrpc.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/.dockerignore" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/Dockerfile" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/NatTraversalTest.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/obj/Debug/net5.0/NatTraversalTest.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="VMOpenSSh">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/.dockerignore" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Dockerfile" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/ExternalServerPrototype.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Protos/greet.proto" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Services/GreeterService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/obj/Debug/net5.0/ExternalServerPrototype.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/obj/Debug/net5.0/Protos/Greet.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ExternalServerPrototype/obj/Debug/net5.0/Protos/GreetGrpc.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/.dockerignore" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Dockerfile" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/GrpcService.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Protos/greet.proto" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Services/GreeterService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/obj/Debug/net5.0/GrpcService.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/obj/Debug/net5.0/Protos/Greet.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/GrpcService/obj/Debug/net5.0/Protos/GreetGrpc.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/.dockerignore" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/Dockerfile" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/NatTraversalTest.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/NatTraversalTest/obj/Debug/net5.0/NatTraversalTest.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

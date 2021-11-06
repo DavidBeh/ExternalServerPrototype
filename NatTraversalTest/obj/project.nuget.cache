@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQzAQbb+2CEXoRKPf77K3mb67uOig8A9tG1ksfxrhh7DwpxBOUcFbT9fcvUJXEZzgqKvjuBYxrHdr6zeOQZkOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\RiderProjects\\ExternalServerPrototype\\NatTraversalTest\\NatTraversalTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\open.nat\\2.1.0\\open.nat.2.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Open.NAT 2.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Open.NAT",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b4660cc0-716f-4415-b66e-493829169d3b" name="VM">
+        <fileTransfer rootFolder="/remote" accessType="SFTP" host="172.24.167.207" port="22" sshConfigId="337374d0-7c37-4a14-9816-da60d366c2e6" sshConfig="no@172.24.167.207:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a8da900a-8e36-484d-8bf5-e0cd65a65e07" name="VMOpenSSh">
+        <fileTransfer rootFolder="/C:/Users/no/remote/" accessType="SFTP" host="172.24.167.207" port="22" sshConfigId="337374d0-7c37-4a14-9816-da60d366c2e6" sshConfig="no@172.24.167.207:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

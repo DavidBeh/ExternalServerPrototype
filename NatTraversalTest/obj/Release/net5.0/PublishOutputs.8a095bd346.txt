@@ -1,0 +1,6 @@
+C:\Users\David\AppData\Local\Temp\rider-publish11847520578960178672\NatTraversalTest.exe
+C:\Users\David\AppData\Local\Temp\rider-publish11847520578960178672\NatTraversalTest.dll
+C:\Users\David\AppData\Local\Temp\rider-publish11847520578960178672\NatTraversalTest.deps.json
+C:\Users\David\AppData\Local\Temp\rider-publish11847520578960178672\NatTraversalTest.runtimeconfig.json
+C:\Users\David\AppData\Local\Temp\rider-publish11847520578960178672\NatTraversalTest.pdb
+C:\Users\David\AppData\Local\Temp\rider-publish11847520578960178672\Open.Nat.dll

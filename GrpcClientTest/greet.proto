@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "ExternalServerPrototype";
+
+package greet;
+
+// The greeting service definition.
+service ExternalServerService {
+  // Sends a greeting
+  rpc RepeatWords (RepeatRequest) returns (RepeatReply);
+}
+
+message RepeatRequest {
+  string words = 1;
+  int32 repeats = 2;
+}
+
+message RepeatReply {
+  string repeated_words = 1;
+}
+
